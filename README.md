@@ -1,1 +1,1 @@
-git add README.md
+git add README.mdgit reflog
