@@ -1,1 +1,1 @@
-"Digital Music Store Project"
+Digital Music Store Project
